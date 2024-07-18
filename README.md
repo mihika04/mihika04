@@ -3,7 +3,7 @@
 
 - 🔭 **I’m currently working on:** Implementing cloud based solutions and microservices.
 
-- 🌱 **I’m currently learning:** React Native
+- 🌱 **I’m currently learning:** React.js
 
 - 👯 **I’m looking to collaborate on:** Backend projects.
 
